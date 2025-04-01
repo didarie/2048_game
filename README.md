@@ -4,11 +4,12 @@ A fully functional clone of the popular 2048 game, implemented with JavaScript. 
 
 ## Demo
 
-🔗 [Live Demo](https://didarie.github.io/js_2048_game/)
+🔗 [Live Demo](https://didarie.github.io/2048_game/)
 
 ## Reference
 
 🧩 [Game reference](https://play2048.co/)
+
 🖼 [Design Reference](./src/images/reference.png)
 
 ## Technologies Used
