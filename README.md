@@ -40,7 +40,7 @@ A fully functional clone of the popular 2048 game, implemented with JavaScript. 
 ### Clone the repository
 ```bash
 git clone https://github.com/didarie/museum_landing-page.git
-cd project-name
+cd museum_landing-page
 ```
 
 ### Install dependencies
