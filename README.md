@@ -34,3 +34,10 @@ A fully functional clone of the popular 2048 game, implemented with JavaScript. 
 - **🚫 Game Over**: If there are no available moves, a "Game Over" message appears.
 
 - **🔄 Restart**: Players can restart the game at any point.
+
+## Project Setup
+
+### Clone the repository
+```bash
+git clone https://github.com/your-username/project-name.git
+cd project-name
